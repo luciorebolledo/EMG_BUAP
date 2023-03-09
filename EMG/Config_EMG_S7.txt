@@ -1,0 +1,7 @@
+Sample Time: 2.0000E-6
+ 
+Channel 1:  
+Y1:8.0000E-3
+Level 1:0.0E+0
+Offset 1:128.0000
+ 
